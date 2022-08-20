@@ -1,0 +1,38 @@
+1. An analyst notes that the “160” in cell A9 is formatted as text, but it should be Australian dollars. What spreadsheet tool can help them select the right format?
+
+A)Format as Currency.
+************************************************************************************************************************************************************
+
+2. You are creating a spreadsheet to help you with your job search. Every time you find an interesting job, you add it to the spreadsheet. Then, you want to indicate two possible options: Need to Apply or Applied. What spreadsheet tool will save you time by enabling you to create a dropdown list with Need to Apply and Applied as the possible options?
+
+A)Data validation.
+************************************************************************************************************************************************************
+
+3. You are using a spreadsheet to keep track of your newspaper subscriptions. You add color to indicate if a subscription is current or has expired. Which spreadsheet tool changes how cells appear when values meet each expiration date?
+
+A)Conditional formatting.
+************************************************************************************************************************************************************
+
+4. You are analyzing data about the capitals of different countries. In your SQL database, you have one column with the names of the countries and another column with the names of the capitals. What function can you use in your query to combine the countries and capitals into a new column?
+
+A)CONCAT.
+************************************************************************************************************************************************************
+
+5. You are querying a database of museums to determine which ones will have a sculpture exhibit this year. For your project, you only need the first 50 records. What clause should you add to the following SQL query? 
+
+A)LIMIT 50.
+************************************************************************************************************************************************************
+
+6. Fill in the blank: A data analyst is working with a spreadsheet that has very long text strings. They use the LEN function to count the number of _____ in the text strings.
+
+A)characters.
+************************************************************************************************************************************************************
+
+7. Spreadsheet cell E13 contains the text string “Database”. To return the substring “Data”, what is the correct syntax? 
+
+A) =LEFT(E13, 4).
+************************************************************************************************************************************************************
+
+8. When working with a spreadsheet, data analysts use the FIND function to locate specific characters in a string. FIND is case-sensitive, so it’s necessary to input the substring exactly how it appears.
+
+A)True.
